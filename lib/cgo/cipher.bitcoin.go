@@ -13,7 +13,7 @@ import (
 	"reflect"
 	"unsafe"
 
-	cipher "github.com/skycoin/skycoin/src/cipher"
+	cipher "github.com/chazu/skycoin/src/cipher"
 )
 
 /**

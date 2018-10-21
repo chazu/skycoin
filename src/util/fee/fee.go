@@ -9,7 +9,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/skycoin/skycoin/src/coin"
+	"github.com/chazu/skycoin/src/coin"
 )
 
 var (

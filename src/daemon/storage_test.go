@@ -7,7 +7,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/skycoin/skycoin/src/daemon/pex"
+	"github.com/chazu/skycoin/src/daemon/pex"
 )
 
 func TestExpectIntroductions(t *testing.T) {

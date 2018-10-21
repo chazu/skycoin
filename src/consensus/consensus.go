@@ -7,7 +7,7 @@ package consensus
 import (
 	"fmt"
 
-	"github.com/skycoin/skycoin/src/cipher"
+	"github.com/chazu/skycoin/src/cipher"
 )
 
 ////////////////////////////////////////////////////////////////////////////////

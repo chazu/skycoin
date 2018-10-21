@@ -1,10 +1,10 @@
 package webrpc
 
 import (
-	"github.com/skycoin/skycoin/src/cipher"
-	"github.com/skycoin/skycoin/src/coin"
-	"github.com/skycoin/skycoin/src/visor"
-	"github.com/skycoin/skycoin/src/visor/historydb"
+	"github.com/chazu/skycoin/src/cipher"
+	"github.com/chazu/skycoin/src/coin"
+	"github.com/chazu/skycoin/src/visor"
+	"github.com/chazu/skycoin/src/visor/historydb"
 )
 
 //go:generate mockery -name Gatewayer -case underscore -inpkg -testonly

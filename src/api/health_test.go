@@ -12,11 +12,11 @@ import (
 	"encoding/json"
 	"net/http/httptest"
 
-	"github.com/skycoin/skycoin/src/cipher"
-	"github.com/skycoin/skycoin/src/coin"
-	"github.com/skycoin/skycoin/src/daemon"
-	"github.com/skycoin/skycoin/src/readable"
-	"github.com/skycoin/skycoin/src/visor"
+	"github.com/chazu/skycoin/src/cipher"
+	"github.com/chazu/skycoin/src/coin"
+	"github.com/chazu/skycoin/src/daemon"
+	"github.com/chazu/skycoin/src/readable"
+	"github.com/chazu/skycoin/src/visor"
 )
 
 func TestHealthHandler(t *testing.T) {

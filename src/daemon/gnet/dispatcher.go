@@ -7,7 +7,7 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/skycoin/skycoin/src/cipher/encoder"
+	"github.com/chazu/skycoin/src/cipher/encoder"
 )
 
 // SendResult result of a single message send

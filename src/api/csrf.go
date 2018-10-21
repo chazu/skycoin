@@ -8,8 +8,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/skycoin/skycoin/src/cipher"
-	wh "github.com/skycoin/skycoin/src/util/http"
+	"github.com/chazu/skycoin/src/cipher"
+	wh "github.com/chazu/skycoin/src/util/http"
 )
 
 const (

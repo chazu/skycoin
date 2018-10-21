@@ -10,7 +10,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/skycoin/skycoin/src/cipher/encoder"
+	"github.com/chazu/skycoin/src/cipher/encoder"
 )
 
 var (

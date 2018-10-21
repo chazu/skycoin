@@ -19,7 +19,7 @@ import (
 	"github.com/blang/semver"
 	"github.com/stretchr/testify/require"
 
-	"github.com/skycoin/skycoin/src/visor"
+	"github.com/chazu/skycoin/src/visor"
 )
 
 const (

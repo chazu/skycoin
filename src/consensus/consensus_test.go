@@ -7,8 +7,8 @@ package consensus
 import (
 	"testing"
 
-	"github.com/skycoin/skycoin/src/cipher"
-	"github.com/skycoin/skycoin/src/cipher/secp256k1-go"
+	"github.com/chazu/skycoin/src/cipher"
+	"github.com/chazu/skycoin/src/cipher/secp256k1-go"
 )
 
 ////////////////////////////////////////////////////////////////////////////////

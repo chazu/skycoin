@@ -9,8 +9,8 @@ import (
 	"io"
 	"math"
 
-	"github.com/skycoin/skycoin/src/cipher"
-	secp256k1 "github.com/skycoin/skycoin/src/cipher/secp256k1-go"
+	"github.com/chazu/skycoin/src/cipher"
+	secp256k1 "github.com/chazu/skycoin/src/cipher/secp256k1-go"
 )
 
 const (

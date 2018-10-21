@@ -5,7 +5,7 @@ import (
 
 	gcli "github.com/urfave/cli"
 
-	"github.com/skycoin/skycoin/src/wallet"
+	"github.com/chazu/skycoin/src/wallet"
 )
 
 func showSeedCmd(cfg Config) gcli.Command {

@@ -5,10 +5,10 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/skycoin/skycoin/src/api/webrpc"
-	"github.com/skycoin/skycoin/src/cipher"
-	"github.com/skycoin/skycoin/src/coin"
-	"github.com/skycoin/skycoin/src/readable"
+	"github.com/chazu/skycoin/src/api/webrpc"
+	"github.com/chazu/skycoin/src/cipher"
+	"github.com/chazu/skycoin/src/coin"
+	"github.com/chazu/skycoin/src/readable"
 
 	gcli "github.com/urfave/cli"
 )

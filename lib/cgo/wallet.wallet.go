@@ -4,9 +4,9 @@ import (
 	"reflect"
 	"unsafe"
 
-	cipher "github.com/skycoin/skycoin/src/cipher"
-	coin "github.com/skycoin/skycoin/src/coin"
-	wallet "github.com/skycoin/skycoin/src/wallet"
+	cipher "github.com/chazu/skycoin/src/cipher"
+	coin "github.com/chazu/skycoin/src/coin"
+	wallet "github.com/chazu/skycoin/src/wallet"
 )
 
 /*

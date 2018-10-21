@@ -3,10 +3,10 @@ package visor
 // This file contains Visor method that require wallet access
 
 import (
-	"github.com/skycoin/skycoin/src/cipher"
-	"github.com/skycoin/skycoin/src/coin"
-	"github.com/skycoin/skycoin/src/visor/dbutil"
-	"github.com/skycoin/skycoin/src/wallet"
+	"github.com/chazu/skycoin/src/cipher"
+	"github.com/chazu/skycoin/src/coin"
+	"github.com/chazu/skycoin/src/visor/dbutil"
+	"github.com/chazu/skycoin/src/wallet"
 )
 
 // GetWalletBalance returns balance pairs of specific wallet

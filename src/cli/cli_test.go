@@ -8,8 +8,8 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/skycoin/skycoin/src/testutil"
-	"github.com/skycoin/skycoin/src/util/file"
+	"github.com/chazu/skycoin/src/testutil"
+	"github.com/chazu/skycoin/src/util/file"
 )
 
 func Example() {

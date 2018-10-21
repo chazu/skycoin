@@ -11,8 +11,8 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/skycoin/skycoin/src/daemon"
-	"github.com/skycoin/skycoin/src/readable"
+	"github.com/chazu/skycoin/src/daemon"
+	"github.com/chazu/skycoin/src/readable"
 )
 
 func TestConnection(t *testing.T) {

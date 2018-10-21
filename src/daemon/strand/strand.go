@@ -9,7 +9,7 @@ package strand
 import (
 	"time"
 
-	"github.com/skycoin/skycoin/src/util/logging"
+	"github.com/chazu/skycoin/src/util/logging"
 )
 
 const (

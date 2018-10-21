@@ -9,8 +9,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/skycoin/skycoin/src/cipher"
-	"github.com/skycoin/skycoin/src/cipher/encoder"
+	"github.com/chazu/skycoin/src/cipher"
+	"github.com/chazu/skycoin/src/cipher/encoder"
 )
 
 // Block represents the block struct

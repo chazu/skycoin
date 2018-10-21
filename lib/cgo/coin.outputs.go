@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"unsafe"
 
-	coin "github.com/skycoin/skycoin/src/coin"
+	coin "github.com/chazu/skycoin/src/coin"
 )
 
 /*

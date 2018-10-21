@@ -1,7 +1,7 @@
 package visor
 
 import (
-	"github.com/skycoin/skycoin/src/coin"
+	"github.com/chazu/skycoin/src/coin"
 )
 
 // Note: parameters.go contains many constants used in this file

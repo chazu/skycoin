@@ -11,7 +11,7 @@ import (
 	"math/big"
 	"strings"
 
-	"github.com/skycoin/skycoin/src/cipher"
+	"github.com/chazu/skycoin/src/cipher"
 )
 
 // Some bitwise operands for working with big.Ints

@@ -5,12 +5,12 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/skycoin/skycoin/src/wallet"
+	"github.com/chazu/skycoin/src/wallet"
 
-	"github.com/skycoin/skycoin/src/visor"
+	"github.com/chazu/skycoin/src/visor"
 
-	"github.com/skycoin/skycoin/src/cipher"
-	"github.com/skycoin/skycoin/src/coin"
+	"github.com/chazu/skycoin/src/cipher"
+	"github.com/chazu/skycoin/src/coin"
 )
 
 func TestGateway_GetWalletDir(t *testing.T) {

@@ -6,12 +6,12 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/skycoin/skycoin/src/cipher"
-	"github.com/skycoin/skycoin/src/coin"
-	"github.com/skycoin/skycoin/src/util/droplet"
-	"github.com/skycoin/skycoin/src/visor"
-	"github.com/skycoin/skycoin/src/visor/historydb"
-	"github.com/skycoin/skycoin/src/wallet"
+	"github.com/chazu/skycoin/src/cipher"
+	"github.com/chazu/skycoin/src/coin"
+	"github.com/chazu/skycoin/src/util/droplet"
+	"github.com/chazu/skycoin/src/visor"
+	"github.com/chazu/skycoin/src/visor/historydb"
+	"github.com/chazu/skycoin/src/wallet"
 )
 
 // UnspentOutput represents a readable output

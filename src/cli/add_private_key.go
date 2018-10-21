@@ -6,8 +6,8 @@ import (
 
 	gcli "github.com/urfave/cli"
 
-	"github.com/skycoin/skycoin/src/cipher"
-	"github.com/skycoin/skycoin/src/wallet"
+	"github.com/chazu/skycoin/src/cipher"
+	"github.com/chazu/skycoin/src/wallet"
 )
 
 func addPrivateKeyCmd(cfg Config) gcli.Command {

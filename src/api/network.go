@@ -6,9 +6,9 @@ import (
 	"net/http"
 	"sort"
 
-	"github.com/skycoin/skycoin/src/daemon"
-	"github.com/skycoin/skycoin/src/readable"
-	wh "github.com/skycoin/skycoin/src/util/http"
+	"github.com/chazu/skycoin/src/daemon"
+	"github.com/chazu/skycoin/src/readable"
+	wh "github.com/chazu/skycoin/src/util/http"
 )
 
 // connectionHandler returns a specific connection

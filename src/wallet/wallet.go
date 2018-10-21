@@ -18,13 +18,13 @@ import (
 
 	"encoding/hex"
 
-	"github.com/skycoin/skycoin/src/cipher"
-	"github.com/skycoin/skycoin/src/coin"
+	"github.com/chazu/skycoin/src/cipher"
+	"github.com/chazu/skycoin/src/coin"
 
 	"github.com/shopspring/decimal"
 
-	"github.com/skycoin/skycoin/src/util/fee"
-	"github.com/skycoin/skycoin/src/util/logging"
+	"github.com/chazu/skycoin/src/util/fee"
+	"github.com/chazu/skycoin/src/util/logging"
 )
 
 // Error wraps wallet related errors

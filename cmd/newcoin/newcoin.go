@@ -12,8 +12,8 @@ import (
 
 	"github.com/urfave/cli"
 
-	"github.com/skycoin/skycoin/src/skycoin"
-	"github.com/skycoin/skycoin/src/util/logging"
+	"github.com/chazu/skycoin/src/skycoin"
+	"github.com/chazu/skycoin/src/util/logging"
 )
 
 const (

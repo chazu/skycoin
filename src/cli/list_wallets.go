@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/skycoin/skycoin/src/wallet"
+	"github.com/chazu/skycoin/src/wallet"
 
 	gcli "github.com/urfave/cli"
 )

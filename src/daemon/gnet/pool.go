@@ -15,10 +15,10 @@ import (
 
 	"io"
 
-	"github.com/skycoin/skycoin/src/cipher/encoder"
-	"github.com/skycoin/skycoin/src/daemon/strand"
-	"github.com/skycoin/skycoin/src/util/elapse"
-	"github.com/skycoin/skycoin/src/util/logging"
+	"github.com/chazu/skycoin/src/cipher/encoder"
+	"github.com/chazu/skycoin/src/daemon/strand"
+	"github.com/chazu/skycoin/src/util/elapse"
+	"github.com/chazu/skycoin/src/util/logging"
 )
 
 // DisconnectReason is passed to ConnectionPool's DisconnectCallback

@@ -5,8 +5,8 @@ import (
 	"os"
 	"sync"
 
-	"github.com/skycoin/skycoin/src/cipher"
-	"github.com/skycoin/skycoin/src/coin"
+	"github.com/chazu/skycoin/src/cipher"
+	"github.com/chazu/skycoin/src/coin"
 )
 
 // BalanceGetter interface for getting the balance of given addresses

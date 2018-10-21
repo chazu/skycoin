@@ -12,11 +12,11 @@ import (
 
 	"log"
 
-	"github.com/skycoin/skycoin/src/api"
-	"github.com/skycoin/skycoin/src/cipher"
-	"github.com/skycoin/skycoin/src/readable"
-	"github.com/skycoin/skycoin/src/util/file"
-	"github.com/skycoin/skycoin/src/wallet"
+	"github.com/chazu/skycoin/src/api"
+	"github.com/chazu/skycoin/src/cipher"
+	"github.com/chazu/skycoin/src/readable"
+	"github.com/chazu/skycoin/src/util/file"
+	"github.com/chazu/skycoin/src/wallet"
 )
 
 var (

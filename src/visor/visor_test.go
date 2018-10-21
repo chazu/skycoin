@@ -17,16 +17,16 @@ import (
 	"github.com/stretchr/testify/mock"
 	"github.com/stretchr/testify/require"
 
-	"github.com/skycoin/skycoin/src/cipher"
-	"github.com/skycoin/skycoin/src/coin"
-	"github.com/skycoin/skycoin/src/testutil"
-	_require "github.com/skycoin/skycoin/src/testutil/require"
-	"github.com/skycoin/skycoin/src/util/fee"
-	"github.com/skycoin/skycoin/src/util/timeutil"
-	"github.com/skycoin/skycoin/src/visor/blockdb"
-	"github.com/skycoin/skycoin/src/visor/dbutil"
-	"github.com/skycoin/skycoin/src/visor/historydb"
-	"github.com/skycoin/skycoin/src/wallet"
+	"github.com/chazu/skycoin/src/cipher"
+	"github.com/chazu/skycoin/src/coin"
+	"github.com/chazu/skycoin/src/testutil"
+	_require "github.com/chazu/skycoin/src/testutil/require"
+	"github.com/chazu/skycoin/src/util/fee"
+	"github.com/chazu/skycoin/src/util/timeutil"
+	"github.com/chazu/skycoin/src/visor/blockdb"
+	"github.com/chazu/skycoin/src/visor/dbutil"
+	"github.com/chazu/skycoin/src/visor/historydb"
+	"github.com/chazu/skycoin/src/wallet"
 )
 
 const (

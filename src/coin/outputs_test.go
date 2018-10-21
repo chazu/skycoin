@@ -11,8 +11,8 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/skycoin/skycoin/src/cipher"
-	"github.com/skycoin/skycoin/src/testutil"
+	"github.com/chazu/skycoin/src/cipher"
+	"github.com/chazu/skycoin/src/testutil"
 )
 
 func makeUxBody(t *testing.T) UxBody {

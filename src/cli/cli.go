@@ -20,8 +20,8 @@ import (
 	gcli "github.com/urfave/cli"
 	"golang.org/x/crypto/ssh/terminal"
 
-	"github.com/skycoin/skycoin/src/api"
-	"github.com/skycoin/skycoin/src/util/file"
+	"github.com/chazu/skycoin/src/api"
+	"github.com/chazu/skycoin/src/util/file"
 )
 
 var (

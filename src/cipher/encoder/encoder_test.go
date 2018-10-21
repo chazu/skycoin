@@ -13,7 +13,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/skycoin/skycoin/src/cipher"
+	"github.com/chazu/skycoin/src/cipher"
 )
 
 func randBytes(t *testing.T, n int) []byte { // nolint: unparam

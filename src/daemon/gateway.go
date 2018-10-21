@@ -7,14 +7,14 @@ import (
 	"strings"
 	"time"
 
-	"github.com/skycoin/skycoin/src/cipher"
-	"github.com/skycoin/skycoin/src/coin"
-	"github.com/skycoin/skycoin/src/daemon/gnet"
-	"github.com/skycoin/skycoin/src/daemon/strand"
-	"github.com/skycoin/skycoin/src/visor"
-	"github.com/skycoin/skycoin/src/visor/dbutil"
-	"github.com/skycoin/skycoin/src/visor/historydb"
-	"github.com/skycoin/skycoin/src/wallet"
+	"github.com/chazu/skycoin/src/cipher"
+	"github.com/chazu/skycoin/src/coin"
+	"github.com/chazu/skycoin/src/daemon/gnet"
+	"github.com/chazu/skycoin/src/daemon/strand"
+	"github.com/chazu/skycoin/src/visor"
+	"github.com/chazu/skycoin/src/visor/dbutil"
+	"github.com/chazu/skycoin/src/visor/historydb"
+	"github.com/chazu/skycoin/src/wallet"
 )
 
 var (

@@ -4,7 +4,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/skycoin/skycoin/src/daemon/pex"
+	"github.com/chazu/skycoin/src/daemon/pex"
 )
 
 // ExpectIntroductions records connections that are expecting introduction msg.

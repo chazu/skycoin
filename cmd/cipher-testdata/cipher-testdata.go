@@ -15,10 +15,10 @@ import (
 	"path/filepath"
 	"sync"
 
-	"github.com/skycoin/skycoin/src/cipher"
-	"github.com/skycoin/skycoin/src/cipher/go-bip39"
-	"github.com/skycoin/skycoin/src/cipher/testsuite"
-	"github.com/skycoin/skycoin/src/util/file"
+	"github.com/chazu/skycoin/src/cipher"
+	"github.com/chazu/skycoin/src/cipher/go-bip39"
+	"github.com/chazu/skycoin/src/cipher/testsuite"
+	"github.com/chazu/skycoin/src/util/file"
 )
 
 const (

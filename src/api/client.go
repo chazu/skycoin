@@ -14,8 +14,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/skycoin/skycoin/src/coin"
-	"github.com/skycoin/skycoin/src/readable"
+	"github.com/chazu/skycoin/src/coin"
+	"github.com/chazu/skycoin/src/readable"
 )
 
 const (

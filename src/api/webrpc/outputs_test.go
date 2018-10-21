@@ -7,11 +7,11 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/skycoin/skycoin/src/cipher"
-	"github.com/skycoin/skycoin/src/coin"
-	"github.com/skycoin/skycoin/src/readable"
-	"github.com/skycoin/skycoin/src/testutil"
-	"github.com/skycoin/skycoin/src/visor"
+	"github.com/chazu/skycoin/src/cipher"
+	"github.com/chazu/skycoin/src/coin"
+	"github.com/chazu/skycoin/src/readable"
+	"github.com/chazu/skycoin/src/testutil"
+	"github.com/chazu/skycoin/src/visor"
 )
 
 func filterOut(t *testing.T, headTime uint64, outs []coin.UxOut, f func(out coin.UxOut) bool) readable.UnspentOutputsSummary {

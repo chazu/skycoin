@@ -10,15 +10,15 @@ import (
 	"sync"
 	"time"
 
-	"github.com/skycoin/skycoin/src/cipher"
-	"github.com/skycoin/skycoin/src/coin"
-	"github.com/skycoin/skycoin/src/daemon/gnet"
-	"github.com/skycoin/skycoin/src/daemon/pex"
-	"github.com/skycoin/skycoin/src/util/elapse"
-	"github.com/skycoin/skycoin/src/util/iputil"
-	"github.com/skycoin/skycoin/src/util/logging"
-	"github.com/skycoin/skycoin/src/visor"
-	"github.com/skycoin/skycoin/src/visor/dbutil"
+	"github.com/chazu/skycoin/src/cipher"
+	"github.com/chazu/skycoin/src/coin"
+	"github.com/chazu/skycoin/src/daemon/gnet"
+	"github.com/chazu/skycoin/src/daemon/pex"
+	"github.com/chazu/skycoin/src/util/elapse"
+	"github.com/chazu/skycoin/src/util/iputil"
+	"github.com/chazu/skycoin/src/util/logging"
+	"github.com/chazu/skycoin/src/visor"
+	"github.com/chazu/skycoin/src/visor/dbutil"
 )
 
 var (

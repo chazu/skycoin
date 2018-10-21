@@ -6,8 +6,8 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/skycoin/skycoin/src/cipher"
-	"github.com/skycoin/skycoin/src/visor/dbutil"
+	"github.com/chazu/skycoin/src/cipher"
+	"github.com/chazu/skycoin/src/visor/dbutil"
 )
 
 func TestAddAddressTxns(t *testing.T) {

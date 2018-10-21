@@ -3,7 +3,7 @@ package cli
 import (
 	"fmt"
 
-	"github.com/skycoin/skycoin/src/wallet"
+	"github.com/chazu/skycoin/src/wallet"
 
 	gcli "github.com/urfave/cli"
 )

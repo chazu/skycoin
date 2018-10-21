@@ -12,8 +12,8 @@ import (
 	"github.com/boltdb/bolt"
 	"github.com/stretchr/testify/require"
 
-	"github.com/skycoin/skycoin/src/cipher"
-	"github.com/skycoin/skycoin/src/visor/dbutil"
+	"github.com/chazu/skycoin/src/cipher"
+	"github.com/chazu/skycoin/src/visor/dbutil"
 )
 
 // PrepareDB creates and opens a temporary test DB and returns it with a cleanup callback

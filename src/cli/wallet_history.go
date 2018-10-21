@@ -10,10 +10,10 @@ import (
 
 	gcli "github.com/urfave/cli"
 
-	"github.com/skycoin/skycoin/src/api"
-	"github.com/skycoin/skycoin/src/readable"
-	"github.com/skycoin/skycoin/src/util/droplet"
-	"github.com/skycoin/skycoin/src/wallet"
+	"github.com/chazu/skycoin/src/api"
+	"github.com/chazu/skycoin/src/readable"
+	"github.com/chazu/skycoin/src/util/droplet"
+	"github.com/chazu/skycoin/src/wallet"
 )
 
 // AddrHistory represents a transactional event for an address

@@ -8,7 +8,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/skycoin/skycoin/src/util/file"
+	"github.com/chazu/skycoin/src/util/file"
 )
 
 // Peers peer list

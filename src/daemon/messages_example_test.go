@@ -9,11 +9,11 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/skycoin/skycoin/src/cipher"
-	"github.com/skycoin/skycoin/src/cipher/encoder"
-	"github.com/skycoin/skycoin/src/coin"
-	"github.com/skycoin/skycoin/src/daemon/gnet"
-	"github.com/skycoin/skycoin/src/daemon/pex"
+	"github.com/chazu/skycoin/src/cipher"
+	"github.com/chazu/skycoin/src/cipher/encoder"
+	"github.com/chazu/skycoin/src/coin"
+	"github.com/chazu/skycoin/src/daemon/gnet"
+	"github.com/chazu/skycoin/src/daemon/pex"
 )
 
 const (

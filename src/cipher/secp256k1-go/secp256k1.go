@@ -9,7 +9,7 @@ import (
 	"encoding/hex"
 	"log"
 
-	secp "github.com/skycoin/skycoin/src/cipher/secp256k1-go/secp256k1-go2"
+	secp "github.com/chazu/skycoin/src/cipher/secp256k1-go/secp256k1-go2"
 )
 
 //intenal, may fail
